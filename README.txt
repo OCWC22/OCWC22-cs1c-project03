@@ -1,8 +1,9 @@
-// TODO: For every project create a README file at the top-level directory of 
-//       your project. Your README must include a list of .java files you are 
-//       submitting and a brief description of each. You may ignore IDE specific 
-//       files such as .gitignore 
-
-// NOTE: Alternatively you can create this file in Markdown format. 
-//       See the tutorial:
-//       https://guides.github.com/features/mastering-markdown/
+The program does the following:
+Simulate a Browser
+Navigate to URL: link www.google.com
+Automate clicking a link
+go back to previous pages
+Again go back to the javaTpoint website using forward command
+Again come back to the Home page using To command
+Refresh the Browser using Refresh command
+Close the Browser
